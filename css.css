@@ -1,0 +1,32 @@
+.button {
+  background-color:#add8e6; 
+  border: none;
+  color: white;
+  padding: auto;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 8px 8px;
+  cursor: pointer;
+}
+.button4 {border-radius: 8px;}
+.button1 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button5:hover {
+  background-color: #555555;
+  color: white;
+}
